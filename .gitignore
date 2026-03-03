@@ -1,1 +1,3 @@
-secretos.txt
+/secretos.txt
+*.pyc
+.ipynb_checkpoints
